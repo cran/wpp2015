@@ -1,8 +1,8 @@
-3c0d12a007a891d1e5e62291dca4d237 *ChangeLog
-9756ffe98a4917f897ec4d2c654bbcac *DESCRIPTION
+28518429dce73cf72a0525c5282d6772 *ChangeLog
+dc366085d0533382f27835ae3bba2377 *DESCRIPTION
 0ac5e0fc498026408e36e4f4ce2fd5b0 *NAMESPACE
 e7f558018de6dafcac2e0a2bb3bf85b7 *data/UNlocations.R
-809f1a96bee4023eb6c1d685f29c9ba1 *data/UNlocations.txt
+4914f99396b50c6f1238205fe0da25a1 *data/UNlocations.txt
 6defa6dcb3d16d2d13179f2aa7ca07e6 *data/datalist
 635f6ea42e82a3a1e5d018d1574827b0 *data/e0F.R
 f892e5e7b73480dba984a14fb50c1868 *data/e0F.txt
@@ -98,4 +98,4 @@ aa642bad30076b5fe59d3d8e162dcae1 *man/SexRatioAtBirth.Rd
 cf2ed794b5891928031eda4257c4e032 *man/UNlocations.Rd
 d172ca2fc3051287c5de9655ff5d1c11 *man/e0.Rd
 e9146d206134cf790e6334b50a448337 *man/tfr.Rd
-3f082051d43b77fe6a64e637b3695ea4 *man/wpp2015-package.Rd
+8defe4c2c6a5c409158c19df4d448f60 *man/wpp2015-package.Rd
