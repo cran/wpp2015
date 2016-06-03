@@ -1,6 +1,6 @@
 Package: wpp2015
-Version: 1.0-1
-Date: 2015-10-14
+Version: 1.1-0
+Date: 2016-6-2
 Title: World Population Prospects 2015
 Author: Population Division, Department of Economic and Social Affairs, United Nations.
 Maintainer: Hana Sevcikova <hanas@uw.edu>
@@ -9,6 +9,6 @@ Description: Provides data from the United Nation's World Population Prospects 2
 License: GPL (>= 2)
 URL: http://esa.un.org/wpp, http://esa.un.org/unpd/ppp
 NeedsCompilation: no
-Packaged: 2015-10-15 00:00:29 UTC; hana
+Packaged: 2016-06-02 19:43:50 UTC; hana
 Repository: CRAN
-Date/Publication: 2015-10-15 15:18:19
+Date/Publication: 2016-06-03 10:54:00
