@@ -1,5 +1,5 @@
-1d777b8da90054c1b00c11599b892cbc *ChangeLog
-563aed033207b58bb5e389c88fb1186c *DESCRIPTION
+9b4c1ac5455712f7b4209efb6f95c181 *ChangeLog
+1e70d2af41a405cc8e052eadb863198f *DESCRIPTION
 0ac5e0fc498026408e36e4f4ce2fd5b0 *NAMESPACE
 e7f558018de6dafcac2e0a2bb3bf85b7 *data/UNlocations.R
 4914f99396b50c6f1238205fe0da25a1 *data/UNlocations.txt
@@ -40,7 +40,7 @@ c80476b97bfa8f81644a4847b4a7bd9f *data/mxF.R
 24b18bc21730011be147120e44921673 *data/mxM.txt
 14229bd9b2639217c3cd7ad33fd83372 *data/percentASFR.R
 ff613509204e0c524a4f6293645af54a *data/percentASFR.txt
-7898b497a3384c6dd7a190e1ff4500df *data/pop.R
+0d20ba65a37054bad038b3ac85cbf1a4 *data/pop.R
 aa8416f399f4778ab8fd3b73b569274a *data/popF.R
 81d328eda220ece9d8f8ea94df5efd3d *data/popF.txt
 8018f9d90a13d1cb435c06590595435a *data/popFprojHigh.R
@@ -57,7 +57,7 @@ b92b2f77f9d6147af4b8b4b60cdc3a86 *data/popMprojHigh.R
 370f067989115d2bdb4047646bf8e4d2 *data/popMprojLow.txt
 144962338beeacd1ab3e1509a22a7adb *data/popMprojMed.R
 e698e4e6806e39065b4c64924c63d977 *data/popMprojMed.txt
-8f526e685e5300a34c7384aefa986a9b *data/popproj.R
+20db197d0d43af0e64383eddbb444447 *data/popproj.R
 ef3c0b3fb09439216385034abc8de91d *data/popproj80l.R
 414f8bda1bd8b40a240fce7d14e26c5b *data/popproj80l.txt
 bc6c2d535c26c4b091cf0dbed6afd124 *data/popproj80u.R
@@ -98,4 +98,4 @@ aa642bad30076b5fe59d3d8e162dcae1 *man/SexRatioAtBirth.Rd
 cf2ed794b5891928031eda4257c4e032 *man/UNlocations.Rd
 d172ca2fc3051287c5de9655ff5d1c11 *man/e0.Rd
 e9146d206134cf790e6334b50a448337 *man/tfr.Rd
-59858585898e96f3435d54cf9b361998 *man/wpp2015-package.Rd
+e148057e6301b7f914fb8288ade3c7ad *man/wpp2015-package.Rd

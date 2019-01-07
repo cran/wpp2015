@@ -1,3 +1,7 @@
+1.1-1 (12/20/2018)
+-----
+Added plyr to dependencies
+
 1.1-0 (6/2/2016)
 -----
 The (rounded) migration dataset replaced by a dataset with more precise 

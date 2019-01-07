@@ -1,13 +1,13 @@
 # This dataset is created on the fly as a sum of the age-specific population median projections popMprojMed and popFprojMed
 
 popproj <- local({
-	library(plyr)
 	source('popMprojMed.R')
 	source('popFprojMed.R')
 	
 	sum.by.country <- function(dataset) {
 		year.cols.idx <- grep('^[0-9]{4}', colnames(dataset))
-		ddply(dataset[,c(which(colnames(dataset)=='country_code'), year.cols.idx)], "country_code", .fun=colwise(sum))
+		plyr::ddply(dataset[,c(which(colnames(dataset)=='country_code'), year.cols.idx)], 
+		            "country_code", .fun = plyr::colwise(sum))
 	}
 	tpopM <- sum.by.country(popMprojMed)
 	tpopF <- sum.by.country(popFprojMed)
