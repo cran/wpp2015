@@ -1,5 +1,5 @@
-9b4c1ac5455712f7b4209efb6f95c181 *ChangeLog
-1e70d2af41a405cc8e052eadb863198f *DESCRIPTION
+ef910e0cf8e2420219f5ab0f704b512b *ChangeLog
+08f941f1f92c4618ff9663329a62642b *DESCRIPTION
 0ac5e0fc498026408e36e4f4ce2fd5b0 *NAMESPACE
 e7f558018de6dafcac2e0a2bb3bf85b7 *data/UNlocations.R
 4914f99396b50c6f1238205fe0da25a1 *data/UNlocations.txt
@@ -90,12 +90,12 @@ e1fe62ced67fe6d19ad4fcff042dd4b2 *data/tfrprojLow.R
 61f538fd658895f1d4f648a121a15182 *data/tfrprojLow.txt
 9481e770fe597de646cb7aa4b9d157e5 *data/tfrprojMed.R
 daa4732b4fddca4037a64fb0909302f2 *data/tfrprojMed.txt
-274669a13902a9c36c6dcf93eab5cb01 *man/ASMR.Rd
-a9a9b7ac5175c22c8cd8b2c428320777 *man/MigByAge.Rd
+7adc650765d4583afe8131202b31880d *man/ASMR.Rd
+fab57b3f5c967b5dfd0ca8a5faa112af *man/MigByAge.Rd
 ce788540ba8934a369e99dbe533f1d5c *man/PercentASFR.Rd
-9ae3bacd4870f44020b9925f3bc63fc3 *man/PopByAge.Rd
+1e884d789a714aef2b8772c4384bd668 *man/PopByAge.Rd
 aa642bad30076b5fe59d3d8e162dcae1 *man/SexRatioAtBirth.Rd
-cf2ed794b5891928031eda4257c4e032 *man/UNlocations.Rd
-d172ca2fc3051287c5de9655ff5d1c11 *man/e0.Rd
-e9146d206134cf790e6334b50a448337 *man/tfr.Rd
+538b8f8b581b387b1900639910c6ac07 *man/UNlocations.Rd
+9c9447339a6d99415f498adba009cf03 *man/e0.Rd
+dd98857d8cda28407c14bc016c5f39c0 *man/tfr.Rd
 e148057e6301b7f914fb8288ade3c7ad *man/wpp2015-package.Rd
